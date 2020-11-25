@@ -1,3 +1,3 @@
-# discourse-mobile-op-avatar-component
+# Mobile OP avatars
 
-A theme component that forces the original poster's avatar to show in the topic list on mobile devices, rather than the latest poster.
+A Discourse theme component that forces the original poster's avatar to show in the topic list on mobile devices, rather than the latest poster.
